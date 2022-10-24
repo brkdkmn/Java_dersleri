@@ -23,6 +23,6 @@ public class C09_ArrayList {
         sayilar.add(4);
         sayilar.add(5);
 
-        System.out.println(sayilar); // [4, 5]
+        System.out.println(sayilar); // [4, 5]'
     }
 }
