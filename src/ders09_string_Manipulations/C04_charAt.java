@@ -11,7 +11,7 @@ public class C04_charAt {
         System.out.println(str.charAt(10));// bana sonuncu karekteri yazdirin
         /*
            bir metindeki karekter sayisi ile son indekx  arasinda bir fark vardir
-           bumetin icin karkter sayisi 11
+           bu metin icin karkter sayisi 11
            ama son index 10 dur
          */
 
