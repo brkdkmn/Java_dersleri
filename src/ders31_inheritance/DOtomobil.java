@@ -1,5 +1,6 @@
 package ders31_inheritance;
 
+
 public class DOtomobil extends BinekArac{
     public static void main(String[] args) {
 
@@ -11,5 +12,8 @@ public class DOtomobil extends BinekArac{
         // parent class(lar)'daki tum ozellikleri almis oluruz
         // Child class'da parent'dan gelen ozellikleri
         // update edebilir veya yeni ozellikler ekleyebiliriz
+
+        // ** private ve/veya static class uyeleri INHERIT edilemezler **
+
     }
 }

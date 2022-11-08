@@ -1,4 +1,4 @@
-package ders18_arrays_diziler;
+package ders18_arrays;
 
 import java.util.Scanner;
 

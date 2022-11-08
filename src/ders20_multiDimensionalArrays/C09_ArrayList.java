@@ -1,6 +1,6 @@
 package ders20_multiDimensionalArrays;
 
-import ders18_arrays_diziler.C06_KullaniciyaArrayOlusturma;
+import ders18_arrays.C06_KullaniciyaArrayOlusturma;
 
 import java.util.ArrayList;
 import java.util.List;

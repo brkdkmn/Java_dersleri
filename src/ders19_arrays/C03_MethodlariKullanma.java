@@ -1,9 +1,9 @@
 package ders19_arrays;
 
-import ders18_arrays_diziler.C03_ArrayElementleriniArtirma;
-import ders18_arrays_diziler.C04_ArrayElemntleriToplami;
-import ders18_arrays_diziler.C05_ArraydeElemanArama;
-import ders18_arrays_diziler.C06_KullaniciyaArrayOlusturma;
+import ders18_arrays.C03_ArrayElementleriniArtirma;
+import ders18_arrays.C04_ArrayElemntleriToplami;
+import ders18_arrays.C05_ArraydeElemanArama;
+import ders18_arrays.C06_KullaniciyaArrayOlusturma;
 
 import java.util.Arrays;
 
