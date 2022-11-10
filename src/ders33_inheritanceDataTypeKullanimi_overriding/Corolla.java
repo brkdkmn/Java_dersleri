@@ -1,5 +1,7 @@
 package ders33_inheritanceDataTypeKullanimi_overriding;
 
+// variable olusturarak degerlerini bulma
+
 public class Corolla extends BToyota {
 
     String model="Corolla";
@@ -24,7 +26,7 @@ public class Corolla extends BToyota {
         System.out.println(corolla1.plaka); // Tum Aracların Plakası Olur
         System.out.println(corolla1.yakit); // Toyota cevreci yakit kullanir
 
-        BToyota corolla2=new Corolla();
+        BToyota corolla2=new Corolla(); // obje corolla, data turu BToyota ve datadan bakariz
         /*
            Obje olustururken
            data turu ve constructorlar farkli ise
