@@ -99,7 +99,7 @@ public class FAvciKuslar extends EKuslar {
 
         System.out.println();
 
-        DHayvanlar kus2=new EKuslar();
+        DHayvanlar kus2=new EKuslar();// data turune ve constructora dikkat!!!(nerde bitiyor)
         kus2.cogalma(); // Kuslar
        // kus2.gaga();   // CTE
         //kus2.kanat(); // CTE
