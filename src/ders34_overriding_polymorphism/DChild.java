@@ -1,6 +1,4 @@
-package ders34_overriding_pollymorphism;
-
-import javax.swing.plaf.ColorUIResource;
+package ders34_overriding_polymorphism;
 
 public class DChild extends CParent{
 

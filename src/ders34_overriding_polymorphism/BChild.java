@@ -1,4 +1,4 @@
-package ders34_overriding_pollymorphism;
+package ders34_overriding_polymorphism;
 
 public class BChild extends AParent {
 
